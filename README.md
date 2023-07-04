@@ -14,9 +14,6 @@ Tkinter Library Management System is a desktop application that allows users to 
 - Renew a borrowed book if it's not overdue.
 - View a list of books borrowed by the user.
 
-## Screenshots
-
-_Insert some screenshots of the application here if you'd like._
 
 ## How to Use
 
